@@ -1,0 +1,17 @@
+D:\_00_grp_Help\Store.Services\bin\Debug\net7.0\Store.Services.deps.json
+D:\_00_grp_Help\Store.Services\bin\Debug\net7.0\Store.Services.dll
+D:\_00_grp_Help\Store.Services\bin\Debug\net7.0\Store.Services.pdb
+D:\_00_grp_Help\Store.Services\bin\Debug\net7.0\Store.Data.dll
+D:\_00_grp_Help\Store.Services\bin\Debug\net7.0\Store.Models.dll
+D:\_00_grp_Help\Store.Services\bin\Debug\net7.0\Store.Models.pdb
+D:\_00_grp_Help\Store.Services\bin\Debug\net7.0\Store.Data.pdb
+D:\_00_grp_Help\Store.Services\obj\Debug\net7.0\Store.Services.csproj.AssemblyReference.cache
+D:\_00_grp_Help\Store.Services\obj\Debug\net7.0\Store.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\_00_grp_Help\Store.Services\obj\Debug\net7.0\Store.Services.AssemblyInfoInputs.cache
+D:\_00_grp_Help\Store.Services\obj\Debug\net7.0\Store.Services.AssemblyInfo.cs
+D:\_00_grp_Help\Store.Services\obj\Debug\net7.0\Store.Services.csproj.CoreCompileInputs.cache
+D:\_00_grp_Help\Store.Services\obj\Debug\net7.0\Store.Services.csproj.CopyComplete
+D:\_00_grp_Help\Store.Services\obj\Debug\net7.0\Store.Services.dll
+D:\_00_grp_Help\Store.Services\obj\Debug\net7.0\refint\Store.Services.dll
+D:\_00_grp_Help\Store.Services\obj\Debug\net7.0\Store.Services.pdb
+D:\_00_grp_Help\Store.Services\obj\Debug\net7.0\ref\Store.Services.dll

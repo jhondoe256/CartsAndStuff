@@ -1,0 +1,14 @@
+D:\_00_grp_Help\Store.Data\bin\Debug\net7.0\Store.Data.deps.json
+D:\_00_grp_Help\Store.Data\bin\Debug\net7.0\Store.Data.dll
+D:\_00_grp_Help\Store.Data\bin\Debug\net7.0\Store.Data.pdb
+D:\_00_grp_Help\Store.Data\obj\Debug\net7.0\Store.Data.csproj.AssemblyReference.cache
+D:\_00_grp_Help\Store.Data\obj\Debug\net7.0\Store.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\_00_grp_Help\Store.Data\obj\Debug\net7.0\Store.Data.AssemblyInfoInputs.cache
+D:\_00_grp_Help\Store.Data\obj\Debug\net7.0\Store.Data.AssemblyInfo.cs
+D:\_00_grp_Help\Store.Data\obj\Debug\net7.0\Store.Data.csproj.CoreCompileInputs.cache
+D:\_00_grp_Help\Store.Data\obj\Debug\net7.0\Store.Data.dll
+D:\_00_grp_Help\Store.Data\obj\Debug\net7.0\refint\Store.Data.dll
+D:\_00_grp_Help\Store.Data\obj\Debug\net7.0\Store.Data.pdb
+D:\_00_grp_Help\Store.Data\obj\Debug\net7.0\ref\Store.Data.dll
+D:\_00_grp_Help\Store.Data\bin\Debug\net7.0\Store.Data.runtimeconfig.json
+D:\_00_grp_Help\Store.Data\obj\Debug\net7.0\Store.Data.genruntimeconfig.cache
